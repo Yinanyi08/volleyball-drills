@@ -1,0 +1,102 @@
+<view class="page-container" wx:if="{{drill}}">
+  <!-- Immersive Hero Header -->
+  <view class="header-image-box">
+    <image 
+      class="header-image" 
+      src="{{drill.image}}" 
+      mode="aspectFill" 
+      bindtap="previewImage"
+    />
+    <view class="header-overlay"></view>
+  </view>
+  
+  <view class="content-section">
+    <!-- Main Title -->
+    <view class="title-section">
+      <view class="title-row">
+        <view class="title">{{drill.title}}</view>
+        <view class="favorite-btn {{isFavorite ? 'active' : ''}}" bindtap="toggleFavorite">
+          <text class="favorite-icon">{{isFavorite ? '♥' : '♡'}}</text>
+        </view>
+      </view>
+      <view class="tags">
+        <!-- Technical Drills Specific Tags -->
+        <block wx:if="{{type === 'technical'}}">
+          <text class="tag">{{drill.phase}}</text>
+          <view wx:for="{{drill.categories}}" wx:for-item="cat" wx:key="*this" class="tag">
+            {{cat}}
+          </view>
+        </block>
+        
+        <!-- Conditioning Specific Tags -->
+        <block wx:else>
+          <text class="tag">{{drill.intensity}}</text>
+          <text class="tag">{{drill.category}}</text>
+        </block>
+      </view>
+    </view>
+
+    <!-- Professional Insight Block -->
+    <view class="description">{{drill.description}}</view>
+
+    <!-- Setup Attributes Grid -->
+    <view class="detail-card">
+      <view class="card-header">
+        <view class="card-icon"></view>
+        <view class="card-title">练习环境</view>
+      </view>
+      <view class="setup-grid">
+        <view class="setup-item" wx:if="{{drill.setup.players}}">
+          <text class="label">球员数量</text> 
+          <text class="value">{{drill.setup.players}}</text>
+        </view>
+        <view class="setup-item" wx:if="{{drill.setup.court}}">
+          <text class="label">场地范围</text> 
+          <text class="value">{{drill.setup.court}}</text>
+        </view>
+        <view class="setup-item" wx:if="{{drill.setup.equipment}}">
+          <text class="label">器材准备</text> 
+          <text class="value">{{drill.setup.equipment}}</text>
+        </view>
+      </view>
+    </view>
+
+    <!-- Execution Steps -->
+    <view class="detail-card">
+      <view class="card-header">
+        <view class="card-icon"></view>
+        <view class="card-title">执行步骤</view>
+      </view>
+      <view class="step-item" wx:for="{{drill.steps}}" wx:key="*this">
+        <view class="step-num">{{index + 1}}</view>
+        <view class="step-content">
+          <text class="step-text">{{item}}</text>
+        </view>
+      </view>
+    </view>
+
+    <!-- Professional Coaching Tips -->
+    <view class="detail-card" wx:if="{{drill.coachingTips.length > 0}}">
+      <view class="card-header">
+        <view class="card-icon"></view>
+        <view class="card-title">专业要点</view>
+      </view>
+      <view class="bullet-item" wx:for="{{drill.coachingTips}}" wx:key="*this">
+        <text class="bullet-dot">✦</text>
+        <text class="bullet-text">{{item}}</text>
+      </view>
+    </view>
+
+    <!-- Variations -->
+    <view class="detail-card" wx:if="{{drill.variations.length > 0}}">
+      <view class="card-header">
+        <view class="card-icon" style="background:var(--accent)"></view>
+        <view class="card-title" style="color:var(--accent)">进阶变化</view>
+      </view>
+      <view class="bullet-item" wx:for="{{drill.variations}}" wx:key="*this">
+        <text class="bullet-dot" style="color:var(--accent)">⦿</text>
+        <text class="bullet-text">{{item}}</text>
+      </view>
+    </view>
+  </view>
+</view>

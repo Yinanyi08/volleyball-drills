@@ -1,0 +1,11 @@
+{
+  "total_drills": 93,
+  "by_category": {
+    "beginner": 55,
+    "intermediate": 87,
+    "high_school": 71,
+    "advanced": 28
+  },
+  "images_downloaded": 93,
+  "scrape_time": "2026-01-10 11:43:46"
+}

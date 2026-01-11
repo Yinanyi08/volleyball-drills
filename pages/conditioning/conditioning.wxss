@@ -1,0 +1,44 @@
+/* pages/conditioning/conditioning.wxss */
+@import "../index/index.wxss";
+
+.nav-switch {
+  display: flex;
+  margin: 0 32rpx 20rpx 32rpx;
+  background: #f1f5f9;
+  border-radius: 20rpx;
+  padding: 8rpx;
+}
+
+.nav-item {
+  flex: 1;
+  text-align: center;
+  font-size: 26rpx;
+  padding: 16rpx 0;
+  color: #64748b;
+  border-radius: 16rpx;
+  transition: all 0.3s ease;
+}
+
+.nav-item.active {
+  background: #ffffff;
+  color: #0052cc;
+  font-weight: 700;
+  box-shadow: 0 4rpx 12rpx rgba(0, 0, 0, 0.05);
+}
+
+.active-intensity {
+  background: #fef2f2 !important;
+  color: #dc2626 !important;
+  border-color: #fecaca !important;
+}
+
+.active-capacity {
+  background: #f5f3ff !important;
+  color: #4f46e5 !important;
+  border-color: #ddd6fe !important;
+}
+
+.intensity-tag {
+  background: #fef2f2;
+  color: #dc2626;
+}

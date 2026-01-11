@@ -1,0 +1,79 @@
+<view class="page-container">
+  <!-- Sticky Header for Filters -->
+  <view class="header-sticky">
+    <view class="nav-switch">
+      <view class="nav-item" bindtap="switchToTechnical">技术训练</view>
+      <view class="nav-item active">专项体能</view>
+      <view class="nav-item nav-favorite" bindtap="goToFavorites">
+        <text class="nav-favorite-icon">♥</text>
+      </view>
+    </view>
+    
+    <view class="filter-group">
+      <!-- Intensity Filter -->
+      <scroll-view class="filter-scroll" scroll-x enable-flex>
+        <view 
+          wx:for="{{intensities}}" 
+          wx:key="id"
+          class="filter-tab {{selectedIntensity === item.id ? 'active-intensity' : ''}}"
+          bindtap="onSelectIntensity"
+          data-id="{{item.id}}"
+        >
+          {{item.name}}
+        </view>
+      </scroll-view>
+
+      <!-- Capacity Category Filter -->
+      <scroll-view class="filter-scroll" scroll-x enable-flex>
+        <view 
+          wx:for="{{categories}}" 
+          wx:key="id"
+          class="filter-tab {{selectedCategory === item.id ? 'active-capacity' : ''}}"
+          bindtap="onSelectCategory"
+          data-id="{{item.id}}"
+        >
+          {{item.name}}
+        </view>
+      </scroll-view>
+    </view>
+  </view>
+
+  <!-- Drills List -->
+  <view class="drills-list">
+    <view 
+      wx:for="{{filteredDrills}}" 
+      wx:key="id" 
+      class="drill-card fade-in"
+      bindtap="goToDetail"
+      data-id="{{item.id}}"
+      style="animation-delay: {{index * 0.05}}s"
+    >
+      <view class="drill-image-container">
+        <image class="drill-image" src="{{item.image}}" mode="aspectFill" />
+        <view class="drill-image-gradient"></view>
+        <view 
+          class="card-favorite-btn {{favoriteIds.includes(item.id) ? 'active' : ''}}" 
+          catchtap="toggleFavorite" 
+          data-id="{{item.id}}"
+        >
+          <text class="card-favorite-icon">{{favoriteIds.includes(item.id) ? '♥' : '♡'}}</text>
+        </view>
+      </view>
+      
+      <view class="drill-info">
+        <view class="drill-title">{{item.title}}</view>
+        <view class="drill-desc">{{item.description}}</view>
+        <view class="drill-meta">
+          <text class="tag intensity-tag">{{item.intensity}}</text>
+          <text class="tag category-tag">{{item.category}}</text>
+        </view>
+      </view>
+    </view>
+    
+    <!-- Empty State -->
+    <view wx:if="{{filteredDrills.length === 0}}" class="no-data">
+      <icon type="warn" size="48" color="#cbd5e1" class="no-data-icon"/>
+      <text>该分类下暂无体能项目</text>
+    </view>
+  </view>
+</view>

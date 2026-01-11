@@ -1,0 +1,82 @@
+/** app.wxss **/
+page {
+  --primary: #0052cc;
+  --secondary: #4c8bf5;
+  --accent: #ff9800;
+  --bg-light: #f8fafc;
+  --text-main: #1e293b;
+  --text-secondary: #64748b;
+  --card-shadow: 0 12rpx 40rpx rgba(0, 0, 0, 0.06);
+  --glass-bg: rgba(255, 255, 255, 0.85);
+  --radius-lg: 32rpx;
+  --radius-md: 20rpx;
+  --radius-sm: 12rpx;
+
+  background-color: var(--bg-light);
+  font-family: -apple-system, "SF Pro Text", "Helvetica Neue", "PingFang SC",
+    "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  color: var(--text-main);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Base Layout Objects */
+view,
+scroll-view,
+input,
+text {
+  box-sizing: border-box;
+}
+
+.page-container {
+  min-height: 100vh;
+  padding-bottom: 40rpx;
+}
+
+/* Common UI Glassmorphism Effect */
+.glass-panel {
+  background: var(--glass-bg);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+/* Modern Card Style */
+.card {
+  background: #ffffff;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--card-shadow);
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.card:active {
+  transform: scale(0.98);
+  box-shadow: 0 4rpx 20rpx rgba(0, 0, 0, 0.04);
+}
+
+/* Bilingual Typography Helper */
+.bilingual-title {
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.bilingual-desc {
+  font-size: 26rpx;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10rpx);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}

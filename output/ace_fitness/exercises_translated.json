@@ -1,0 +1,985 @@
+[
+  {
+    "id": "3-triceps-pressdown",
+    "title": "三头肌下压 (Triceps Pressdown)",
+    "description": "Stand with the feet hip-width apart, the hips straight, the back straight and tall, and the knees slightly bent. Place the cable pulley at the highest...",
+    "category": "力量",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "弹力带/缆绳",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Stand with the feet hip-width apart, the hips straight, the back straight and tall, and the knees slightly bent. Place the cable pulley at the highest position, use a rope attachment, and grip the ends firmly in both hands. Pull the elbows close to the sides, and slowly push the hands down towards the floor, straightening the arms all the way then bending the elbows to return to the starting position."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "5-chest-press",
+    "title": "卧推 (Chest Press)",
+    "description": "Lie face up on a flat bench, and grip a barbell with the hands slightly wider than shoulder-width. Press the feet into the ground and the hips into th...",
+    "category": "力量",
+    "intensity": "高",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "杠铃、卧推凳",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Lie face up on a flat bench, and grip a barbell with the hands slightly wider than shoulder-width. Press the feet into the ground and the hips into the bench while lifting the bar off the rack. Slowly lower the bar to the chest by allowing the elbows to bend out to the side. Stop when the elbows are just below the bench, and press feet into the floor to press the weight straight up to return to the starting position."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "7-supine-pelvic-tilts",
+    "title": "仰卧骨盆倾斜 (Supine Pelvic Tilts)",
+    "description": "Starting Position: Lie supine (on your back) with your knees bent and both feet flat on the mat/floor and the knees aligned with the second toe of eac...",
+    "category": "核心稳定",
+    "intensity": "低",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "无器械",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Lie supine (on your back) with your knees bent and both feet flat on the mat/floor and the knees aligned with the second toe of each foot. Abduct your arms (extend to side) with the palms supinated (facing up to the ceiling).",
+      "Downward Phase: Exhale and gently contract your abdominal muscles to flatten your low back into the mat/floor. Avoid trying to lift your hips (tailbone) off the mat/floor. Hold this position briefly.",
+      "Upward Phase: Inhale and slowly relax your abdominal muscles while gently contracting your erector spinae (low back muscles) to increase the arch in your low back. Avoid raising your hips off the mat/floor. Hold this position briefly before returning to your starting position."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "9-supermans",
+    "title": "超人式 (Supermans)",
+    "description": "Starting Position: Lie prone (on your stomach) on a mat with your legs extended, ankles slightly plantarflexed (toes pointing away from your shins), a...",
+    "category": "核心稳定",
+    "intensity": "低",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "无器械",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Lie prone (on your stomach) on a mat with your legs extended, ankles slightly plantarflexed (toes pointing away from your shins), arms extended overhead with palms facing each other. Relax your head to align it with your spine.",
+      "Upward Phase: Exhale, contract your abdominal and core muscles to stabilize your spine and slowly extend both hips (raise both legs) a few inches off the floor while simultaneously raising both arms a few inches off the floor. Keep both legs and arms extended and avoiding any rotation in each. Maintain your head and torso position, avoiding any arching in your back or raising of your head. Hold this position briefly.",
+      "Downward Phase: Gently inhale and lower your legs and arms back towards your starting position without any movement in your low back or hips."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "13-bent-knee-push-up",
+    "title": "跪姿俯卧撑 (Bent Knee Push-up)",
+    "description": "Starting Position: Kneel on an exercise mat or floor and bring your feet together behind you.",
+    "category": "力量",
+    "intensity": "低",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "无器械",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Kneel on an exercise mat or floor and bring your feet together behind you.",
+      "Slowly bend forward to place your palms flat on the mat, positioning your hands shoulder-width apart with your fingers facing forward. Slowly shift your weight forward until your shoulders are positioned directly over your hands. Reposition your hands as needed to allow full extension of your body from the knees without any bend at the hips. Stiffen your torso by contracting your core and abdominal muscles (\"bracing\").",
+      "Downward Phase: Slowly lower your body towards the floor while maintaining a rigid torso and head aligned with your spine. Do not allow your low back to sag or your hips to hike upwards during this downward phase. Continue to lower yourself until your chest or chin touch the mat or floor. Your elbows should remain close to the sides of your body or flare outwards slightly.",
+      "Upward Phase: Press upwards through your arms while maintaining a rigid torso and head aligned with your spine. Do not allow your low back to sag or your hips to hike upwards. Continue pressing until the arms are fully extended at the elbows."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "15-cat-cow",
+    "title": "猫牛式 (Cat-Cow)",
+    "description": "Starting Position: Kneel on an exercise mat or floor, positioning your knees and feet hip-width apart, with your feet dorsi-flexed (toes pointing towa...",
+    "category": "核心稳定",
+    "intensity": "低",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "无器械",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Kneel on an exercise mat or floor, positioning your knees and feet hip-width apart, with your feet dorsi-flexed (toes pointing towards your body).",
+      "Slowly lean forward to place your hands on the mat, positioning them directly under your shoulders at shoulder-width with your hands facing forward. Reposition your hands and knees as necessary so that your knees are directly under your hips and hands are directly under your shoulders.",
+      "Gently stiffen your core and abdominal muscles to position your spine in a neutral position, avoiding any sagging or arching.",
+      "Upward (Cat) Phase: Gently exhale and contract your abdominal muscles, pushing your spine upwards towards the ceiling and hold this position for 10 - 15 seconds. Allow your head to fall towards your chest, maintaining alignment with the spine.",
+      "Downward (Cow) Phase: Slowly relax and yield to the effects of gravity. Let your stomach fall towards the floor (increasing the arch in your low back) and allow your shoulder blades to fall together (move towards the spine). Hold this position for 10 - 15 seconds before returning to your starting position"
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "16-cobra",
+    "title": "眼镜蛇式 (Cobra Exercise)",
+    "description": "Starting Position: Lie prone (on your stomach) on an exercise mat or floor with your hands by your sides, positioned directly under your shoulders and...",
+    "category": "核心稳定",
+    "intensity": "低",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "无器械",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Lie prone (on your stomach) on an exercise mat or floor with your hands by your sides, positioned directly under your shoulders and hands facing forward. Extend your legs and plantar flex your ankles (toes point away from body).",
+      "Upward Phase: Gently exhale and press your hips into the mat or floor and pull your chest away from the ground while keeping your hips stable. This will arch your low back and stretch the muscles in your chest and abdominal region. Hold this position for 15 - 30 seconds",
+      "Downward Phase: Gently relax and lower your upper body to rest back upon the mat or floor.",
+      "If you experience any pain in the low back with this movement, stop the exercise immediately and consult with your doctor."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "23-ankle-flexion",
+    "title": "踝关节屈伸 (Ankle Flexion)",
+    "description": "Starting Position: Assume a seated position, extending one leg out in front. Secure a cable or resistance band around the ball of that foot. The resis...",
+    "category": "柔韧性",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "弹力带/缆绳",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Assume a seated position, extending one leg out in front. Secure a cable or resistance band around the ball of that foot. The resistance should be pulling the bottom of your foot away from you.",
+      "Start with your foot in plantar flexion (toes pointed forward away from your body) and slowly dorsiflex the ankle (pulling your toes towards your shin). Slowly return to your starting position, controlling the speed of movement and repeat.",
+      "The movement comes from your ankle, so avoid any bending or full extension of your knee throughout the movement. Always aim to keep your foot aligned facing forward.",
+      "As an exercise progression, modify your movement to include a slight foot rotation as you dorsiflex the ankle (toes point towards the ceiling). The direction of your slight rotation should be into inversion (bringing the big toe towards your shin bone)."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "25-incline-chest-press",
+    "title": "上斜卧推 (Incline Chest Press)",
+    "description": "Starting Position: Grasp two dumbbells and lie supine (on your back) on an incline bench angled between 45 and 60 degrees with your feet placed firmly...",
+    "category": "力量",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "卧推凳、哑铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Grasp two dumbbells and lie supine (on your back) on an incline bench angled between 45 and 60 degrees with your feet placed firmly on the floor or on a raised platform to allow you to maintain a neutral spine (flat to normal curvature).",
+      "Depress and retract your scapulae (pull shoulders down and back) to make firm contact with the bench. Your head, shoulders, butt and feet should make contact with the bench and floor/riser throughout the exercise. If using a spotter, signal for assistance in moving to your starting position. Grasp each dumbbell with a closed, pronated grip (palms facing forward, thumbs wrapped around the handle) and press the dumbbells in unison to a level over your eyes or slightly higher, with your elbows fully extended. Maintain a neutral wrist position (avoid flexion / extension at the wrist joint).",
+      "Downward Phase: Inhale and slowly lower the dumbbells in unison and in a controlled movement towards your upper chest, but moving slightly wider towards the armpits. Gently touch the dumbbells to your chest without bouncing, maintaining your neutral wrist position. Keep the elbows under your wrists, and either close to your sides (emphasizes more triceps) or flared out from the body (emphasizes more pectorals). Maintain all points of contact with the bench and floor/riser and avoid any arching in the low back.",
+      "Upward Phase: Exhale and gently press upwards to full elbow extension with the dumbbells positioned at your starting position. Maintain your points of contact with the bench and floor/riser, avoid arching your back during the lift and maintain your neutral wrist position throughout the movement.",
+      "At the end of the set, signal your spotter to assist you in taking the dumbbells and maintain a firm grip until the dumbbells are taken from your hands."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "26-lateral-raise",
+    "title": "侧平举 (Lateral Raise)",
+    "description": "Starting Position: Stand holding dumbbells in your hands with a closed, neutral grip (thumbs around the handles and palms facing your body). Position ...",
+    "category": "力量",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "哑铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Stand holding dumbbells in your hands with a closed, neutral grip (thumbs around the handles and palms facing your body). Position the dumbbells alongside your thighs with your elbows extended or holding a slight bend. Assume either a split-stance position to stabilize your body or position your feet slightly wider than hip-width apart.",
+      "Stiffen your torso by contracting your abdominal and core muscles (\"bracing\"), and depress and retract your scapulae (pull your shoulders down and back), maintaining this position throughout the exercise. Your head position should be aligned with your spine.",
+      "Upward Phase: Exhale and slowly raise the dumbbells up and out to your sides. Your elbows and upper arms should rise together and be slightly ahead of your forearms and dumbbells. As your arms move past 60 - 70 degrees (nearing shoulder level), rotate them slightly upwards so that the front edge of the dumbbells point slightly upwards. Continue raising the dumbbells until your arms are level with your shoulders and approximately parallel with the floor. Maintain your torso erect (no arching your low back) and neutral wrist position (avoid flexion and extension of your wrists).",
+      "Downward Phase: Inhale and gently lower the dumbbells back towards your starting position keeping your elbows slightly extended and holding the neutral grip position. Maintain your foot, torso, shoulder and wrist positions while lowering the dumbbells and rotating them slightly downwards as your arms pass that 60-70 degree mark."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "28-step-up",
+    "title": "箱式登阶 (Step-up)",
+    "description": "Starting Position: Stand with your feet parallel about hip width apart while holding dumbbells in your hands with palms facing inwards. Depress and re...",
+    "category": "力量",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "哑铃、跳箱/平台",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Stand with your feet parallel about hip width apart while holding dumbbells in your hands with palms facing inwards. Depress and retract your scapulae (pull shoulders down and back).Attempt to avoid shrugging your shoulder upwards.",
+      "Upward Phase: Slowly step to place your right foot on a platform, placing your foot firmly on the deck while keeping your torso upright and aligning your knee over your second toe. Push off with the trailing (left) leg to raise your body onto the platform placing that foot alongside your leading (right) foot. During this transition, your torso and your right tibia (shinbone) will move slightly forward past vertical, but try to avoid excessive forward movement.",
+      "Downward Phase: Slowly load the weight of your body into your leading (right) foot, step backwards to place the trailing (left) foot on the floor in its starting position. Allow your body to lean slightly forward during the step-down movement. Load your weight into your trailing (left) foot and step off the platform with your leading (right) foot, returning to your starting position. Repeat for the opposite side.",
+      "An exercise progression is to step-up onto one leg only and remain standing on a single-leg before stepping back down."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "29-wrist-curl-extension",
+    "title": "腕屈伸 (Wrist Curl - Extension)",
+    "description": "Starting Position: Holding two dumbbells, kneel and rest your elbows on a bench with approximately a 90 degree bend at the elbows and the dumbbells ha...",
+    "category": "力量",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "卧推凳、哑铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Holding two dumbbells, kneel and rest your elbows on a bench with approximately a 90 degree bend at the elbows and the dumbbells hanging freely off the edge of the pad. Pronate your forearms (rotate forearms to face palms downward and the bottom of the forearms are resting on the bench) while keeping your wrists in a neutral position (not in flexion or extension).",
+      "Downward Phase: Inhale and slowly allow the wrists to move into flexion (allow dumbbells to move towards the floor) without releasing your grip, extending your arms or leaning forward / backward. Hold this end position briefly.",
+      "Upward Phase: Exhale and slowly contract your forearm extensor muscles (along the top of the forearm) and roll your wrists to pull the weight up and return the dumbbells back to the starting position."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "8-forward-lunge",
+    "title": "前弓步 (Forward Lunge)",
+    "description": "Place a barbell in a rack at approximately shoulder-height. Dip under the bar so that it rests behind the neck across the top of the back and shoulder...",
+    "category": "力量",
+    "intensity": "高",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "杠铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Place a barbell in a rack at approximately shoulder-height. Dip under the bar so that it rests behind the neck across the top of the back and shoulder blades, and grip the bar with the hands a little wider than shoulder-width apart. Lift the chest and squeeze the shoulder blades together to keep the back straight through the entire movement. Stand up to bring the bar off the rack and take 2 steps backwards. Place both feet so that they are about hip-width apart, and step forward with the right leg. Lower the left knee almost to the floor without touching the ground. From the bottom of the movement push the right foot into the floor and pull back with the left leg to stand up. Alternate the legs for the desired number of repetitions."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "10-hammer-curl",
+    "title": "锤式弯举 (Hammer Curl)",
+    "description": "Starting Position: Stand holding dumbbells in your hands with a closed, neutral grip (thumbs around the handles with your palms facing your body). Pos...",
+    "category": "力量",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "哑铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Stand holding dumbbells in your hands with a closed, neutral grip (thumbs around the handles with your palms facing your body). Position the dumbbells alongside your thighs with your elbows fully extended. Assume a split-stance position to stabilize your body, stiffen your torso by contracting your abdominal/core muscles (\"bracing\"), and depress and retract your scapulae (pull your shoulders down and back), maintaining these positions throughout the exercise. Your head and neck should be aligned with your spine.",
+      "Upward Phase: Exhale and slowly flex (bend) one or both elbows in unison until the dumbbell(s) near(s) the front of your shoulder. It performing alternating arm curls, the opposite arm should remain in the starting position. Perform the curl while keeping your torso erect (no arching your low back) or without moving your elbows forward. Maintain a neutral wrist position (wrist straight without any bend with your palms facing your body) and avoid shrugging your shoulders throughout the movement.",
+      "Downward Phase: Inhale and gently lower the dumbbells back towards your starting position until the elbow(s) is/are fully extended, keeping the dumbbell in the neutral position. Maintain your split-stance, torso and shoulder position and if performing alternating arm curls, repeat to the opposite side."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "14-bird-dog",
+    "title": "鸟狗式 (Bird-dog)",
+    "description": "Starting Position: Kneel on an exercise mat or floor, positioning your knees and feet hip-width apart, with your feet dorsi-flexed (toes pointing towa...",
+    "category": "核心稳定",
+    "intensity": "低",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "无器械",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Kneel on an exercise mat or floor, positioning your knees and feet hip-width apart, with your feet dorsi-flexed (toes pointing towards your body).",
+      "Slowly lean forward to place your hands on the mat, positioning them directly under your shoulders at shoulder-width with your fingers facing forward. Reposition your hands and knees as necessary so that your knees are directly under your hips and hands are directly under your shoulders.",
+      "Stiffen your core and abdominal muscles to position your spine in a neutral position, avoid any excessive sagging or arching.",
+      "Upward Phase: This exercise involves simultaneous movement of your leg and contralateral (opposite) arm. This exercise is best performed facing a mirror. Hip Extension: Slowly extend your left hip (raise and straighten the knee) attempting to extend it until it is at, or near parallel, to the floor without any rotation in the hip. Your goal is to keep both hips parallel to the floor. The use of a light bar placed across the hips, parallel to the waistline of your pants, provides visual feedback to hip rotation and what corrections are needed.",
+      "Shoulder flexion: Slowly flex your right arm (raise and straighten the arm) attempting to raise it until it is at, or near parallel, to the floor without any tilting at the shoulders. Your goal is to keep the both shoulders parallel to the floor. The use of a light bar placed across the shoulders provides visual feedback to shoulder rotation and what corrections are needed. Your head should remain aligned with the spine throughout the movement."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "18-downward-facing-dog",
+    "title": "下犬式 (Downward-facing Dog)",
+    "description": "Starting Position: Kneel on an exercise mat or floor and bring your feet together behind you. Slowly bend forward to place your palms flat on the mat,...",
+    "category": "核心稳定",
+    "intensity": "低",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "无器械",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Kneel on an exercise mat or floor and bring your feet together behind you. Slowly bend forward to place your palms flat on the mat, positioning your hands shoulder-width apart with your fingers facing forward. Slowly lift yourself into a push-up position, shifting your hands until your shoulders are positioned directly over your hands. Reposition your feet as needed to allow full extension of your body. Stiffen your torso by contracting your core and abdominal muscles to prevent any arching in your low back or hiking of your hips towards the ceiling.",
+      "Upward Phase: While maintaining a rigid torso and full extension in your arms and legs, slowly exhale and shift your weight backwards by pushing your hips backwards and upwards. Maintain your head alignment with your spine, but slowly move your head between your shoulders as your body moves backwards and attempt to push your heels towards the floor. Maintain the stiffness in your torso to prevent the tendency of your back to arch. Continue moving until your body forms an inverted-V, keeping both arms and legs extended and a neutral (flat) spine. Allow a slight bend in the knees if required to achieve the inverted-V position.",
+      "Downward Phase: Inhale and return your body to the starting push-up position, maintaining the alignment of all your body segments."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "19-chest-press",
+    "title": "卧推 (Chest Press)",
+    "description": "Starting Position: Grasp two dumbbells and lie supine (on your back) on a flat bench with your feet firmly placed on the floor or upon a raised platfo...",
+    "category": "力量",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "卧推凳、哑铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Grasp two dumbbells and lie supine (on your back) on a flat bench with your feet firmly placed on the floor or upon a raised platform to allow you to maintain a flat or neutral (flat) spine. If working with a spotter, signal the spotter for assistance in handing you your the dumbbells.",
+      "Depress and retract your scapulae (pull shoulders down and back) to make firm contact with the bench. Your head, shoulders, butt and feet should make contact with the bench and floor/riser throughout the exercise. Signal your spotter for assistance in moving to your starting position. Grasp each dumbbell with a closed, pronated grip (palms facing forward, thumbs wrapped around the handle), press the dumbbells to a position level with or just below your eyes with the elbows fully extended. Maintain a neutral wrist position (avoid flexion/extension at the wrist joint).",
+      "Downward Phase: Inhale and slowly lower the dumbbells in unison and in a controlled movement towards your mid-chest, but moving slightly wider towards the armpits. Gently touch the dumbbells to your chest without bouncing, maintaining your neutral wrist position. Keep the elbows close to your sides (emphasizes more triceps) or flared out from the body (emphasizes more pectorals). Maintain all points of contact with the bench and floor/riser and avoid any arching in the low back.",
+      "Upward Phase: Exhale and gently press upwards to full elbow extension with the dumbbells positioned at or just below the level of your eyes. Maintain your points of contact with the bench and floor/riser, avoid arching your back during the lift and maintain neutral wrist position throughout the movement.",
+      "At the end of the set, signal your spotter to assist you in taking the dumbbells and maintain a firm grip until the dumbbells are taken from your hands."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "21-lying-chest-fly",
+    "title": "仰卧飞鸟 (Lying Chest Fly)",
+    "description": "Starting Position: Grasp two dumbbells and lie supine (on your back) on a flat bench with your feet placed firmly on the floor or upon a raised platfo...",
+    "category": "力量",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "卧推凳、哑铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Grasp two dumbbells and lie supine (on your back) on a flat bench with your feet placed firmly on the floor or upon a raised platform to allow you to maintain a neutral (flat to normal) spine. If working with a spotter, signal the spotter for assistance in handing you the dumbbells.",
+      "Depress and retract your scapulae (pull shoulders down and back) to make firm contact with the bench. Your head, shoulders, butt and feet should make contact with the bench and floor/riser throughout the exercise. Signal the spotter for assistance in moving to the starting position. Grasp each dumbbell with a closed, pronated grip (palms facing forward, thumbs wrapped around the handle), pressing the dumbbells to a position shoulder-width apart with your elbows extended. Externally rotate the arms (rotate your elbows to face outward and palms to face inward), slightly flexing the elbows, but maintaining a neutral wrist position (avoid flexion/extension at the wrist joint).",
+      "Downward Phase: Inhale and slowly lower the dumbbells in unison in a wide arc until they lie level with your shoulders or chest. Keep the dumbbells parallel with each other during the movement. Maintain your slightly flexed elbows, neutral wrist position and contact of your head, shoulder, butt and feet with the bench and floor/riser.",
+      "Upward Phase: Exhale and slowly raise the dumbbells upward in a wide arc back to your starting position, keeping the elbows slightly flexed, wrists neutral and making contact with the head, shoulders, butt and feet with the bench and floor/riser."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "22-front-squat",
+    "title": "前蹲 (Front Squat)",
+    "description": "Starting Position: Stand with your feet slightly wider than hip-width, facing outward or turned slightly outwards while holding a dumbbell in each han...",
+    "category": "力量",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "哑铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Stand with your feet slightly wider than hip-width, facing outward or turned slightly outwards while holding a dumbbell in each hand by your sides, with palms facing inwards. Depress and retract your scapulae (pull shoulders down and back).",
+      "Stiffen your core and abdominal muscles (“bracing”) to stabilize your spine. Curl the dumbbells to a starting position where they rest on the front edge of your shoulders or just in front of your shoulders. Hold your chest up and out, tilt your head slightly up, and shift your weight over your heels.",
+      "Downward Phase: Start the downward phase by first shifting your hips backwards then downwards to create a hinge-like movement at your knees. As you lower your hips the knees will then start to shift forward slowly, but try to control the amount of forward translation (movement) of the tibia (shinbone). Attempt to keep your back flat.",
+      "Continue to lower yourself until your thighs are parallel or almost parallel with the floor, or until your heels begin to lift off the floor, or until your torso begins to round or flex forward. Monitor your feet, ankles and knees, ensuring that the feet don't move, the ankles do not collapse in or out and the knees remain aligned over the second toe.",
+      "Lowered Position: From the front, the knees should continue to remain aligned over the second toe and body weight should be evenly distributed over both feet. From the side, the position of the tibia (shinbone) and torso should be parallel with each other and the low back should appear flat or showing the beginning of some rounding."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "32-front-plank",
+    "title": "平板支撑 (Front Plank)",
+    "description": "Starting Position: Lie prone (on your stomach) on an exercise mat or floor with your elbows close to your sides and directly under your shoulders, pal...",
+    "category": "核心稳定",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "无器械",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Lie prone (on your stomach) on an exercise mat or floor with your elbows close to your sides and directly under your shoulders, palms down and hands facing forward. Contract your quadriceps to extend your legs and dorsiflex your ankles (pull toes towards your shins). Contract your core and abdominal muscles to stiffen your torso.",
+      "Upward Phase. Slowly lift your entire torso off the floor or mat, maintaining a stiff torso and legs. Avoid any arching (sagging) in your low back, hiking (upwards) in your hips or bending in the knees. Avoid shrugging your shoulder and keep your shoulders positioned directly over your elbows with your palms facing down. Continue to breath while holding this position for a specified time (5+ seconds).",
+      "Downward Phase: While maintaining a stiff torso and extended knees, gently lower your body back towards the mat or floor before relaxing."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "36-lying-barbell-triceps-extensions",
+    "title": "仰卧杠铃臂屈伸 (Lying Barbell Triceps Extensions)",
+    "description": "Starting Position: Holding a barbell with a closed, pronated grip (palms facing your feet and thumbs wrapped around the bar), lie supine (on your back...",
+    "category": "力量",
+    "intensity": "高",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "杠铃、卧推凳",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Holding a barbell with a closed, pronated grip (palms facing your feet and thumbs wrapped around the bar), lie supine (on your back) on a flat bench with your feet firmly placed on the floor. Slowly press the barbell off your chest, fully extending your elbows until the barbell is positioned directly above your face with your palms still facing towards your feet. Maintain a neutral wrist position (no flexion or extension at the wrist).",
+      "Downward Phase: Inhale and slowly bend the elbows, lowering the bar in a controlled manner towards your forehead or slightly behind your head while maintaining your neutral wrist position. Your upper arms should remain vertical to the floor as the elbows bend. Lower the bar until it sits just above your forehead or until you notice the upper arms begin to drift backwards.",
+      "Upward Phase: Exhale and slowly return to your starting position with your elbows fully extended."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "37-lying-pullovers",
+    "title": "仰卧拉举 (Lying Pullovers)",
+    "description": "Lie face up on a bench with the feet resting comfortably on the floor, and straighten the arms above the chest while holding one dumbbell in each hand...",
+    "category": "力量",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "卧推凳、哑铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Lie face up on a bench with the feet resting comfortably on the floor, and straighten the arms above the chest while holding one dumbbell in each hand with the palms facing each other. Slowly stretch the arms up overhead while keeping the elbows straight. Once the arms are overhead slowly pull the weights back up to the original starting position. Repeat for the desired number of repetitions."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "41-push-up",
+    "title": "俯卧撑 (Push-up)",
+    "description": "Starting Position: Kneel on an exercise mat or floor and bring your feet together behind you.",
+    "category": "力量",
+    "intensity": "低",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "无器械",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Kneel on an exercise mat or floor and bring your feet together behind you.",
+      "Slowly bend forward to place your palms flat on the mat, positioning your hands shoulder-width apart with your fingers facing forward or turned slightly inward. Slowly shift your weight forward until your shoulders are positioned directly over your hands. Reposition your hands as needed to allow full extension of your body without any bend at the hips or knees. Stiffen your torso by contracting your core/abdominal muscles (\"bracing\"), your glute and quadriceps muscles and align your head with your spine. Place your feet together with your ankles dorsiflexed (toes pointed towards your shins).",
+      "Downward Phase: Slowly lower your body towards the floor while maintaining a rigid torso and head aligned with your spine. Do not allow your low back to sag or your hips to hike upwards during this downward phase. Continue to lower yourself until your chest or chin touch the mat/floor. Allow your elbows to flare outwards during the lowering phase.",
+      "Upward Phase: Press upwards through your arms while maintaining a rigid torso and head aligned with your spine. For extra strength think about pushing the floor away from you. Do not allow your low back to sag or your hips to hike upwards. Continue pressing until the arms are fully extended at the elbows.",
+      "An alternative position is to turn your hands to face forwards and keep your your elbows close to your sides during the downward phase. This shifts the emphasis from the chest muscles onto the triceps and may reduce stresses in the shoulder joint."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "6-deadlift",
+    "title": "硬拉 (Deadlift)",
+    "description": "Stand behind the barbell with the feet about shoulder-width apart, the toes slightly rotated out, and the shins almost touching the bar. Sit back into...",
+    "category": "力量",
+    "intensity": "高",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "杠铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Stand behind the barbell with the feet about shoulder-width apart, the toes slightly rotated out, and the shins almost touching the bar. Sit back into the hips slightly while keeping a straight back so that the chest is lifted upward, and bend forward to grip the bar in an over-under grip with one palm facing up and the other facing down. Squeeze the bar in the hands and sink back onto the hips while pressing the feet into the floor. Keeping the back flat, push the hips forward to move to standing position. Finish standing in a tall position with the shoulders pulled back and the legs straight. Return to the starting position by shifting the weight back into the hips and keep the back straight while allowing the knees to bend. When this movement is done properly, the glutes and the back of the thighs should feel the work, NOT the back."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "11-back-squat",
+    "title": "深蹲 (Back Squat)",
+    "description": "Place a barbell in a rack just below shoulder-height. Dip under the bar to put it behind the neck across the top of the back, and grip the bar with th...",
+    "category": "力量",
+    "intensity": "高",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "杠铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Place a barbell in a rack just below shoulder-height. Dip under the bar to put it behind the neck across the top of the back, and grip the bar with the hands wider than shoulder-width apart. Lift the chest up and squeeze the shoulder blades together to keep the straight back throughout the entire movement. Stand up to bring the bar off the rack and step backwards, then place the feet so that they are a little wider than shoulder-width apart. Sit back into hips and keep the back straight and the chest up, squatting down so the hips are below the knees. From the bottom of the squat, press feet into the ground and push hips forward to return to the top of the standing position."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "12-bent-over-row",
+    "title": "俯身划船 (Bent-over Row)",
+    "description": "Grip a barbell with palms down so that the wrists, elbows, and shoulders are in a straight line. Lift the bar from the rack, bend forward at the hips,...",
+    "category": "力量",
+    "intensity": "高",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "杠铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Grip a barbell with palms down so that the wrists, elbows, and shoulders are in a straight line. Lift the bar from the rack, bend forward at the hips, and keep the back straight with a slight bend in the knees. Lower the bar towards the floor until the elbows are completely straight, and keep the back flat as the bar is pulled towards the belly button. Then slowly lower the bar to the starting position and repeat."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "24-push-press",
+    "title": "推举 (Push Press)",
+    "description": "Place a barbell in a squat rack so that the bar is slightly lower than shoulder height, and grip the bar with the hands about shoulder-width apart. Di...",
+    "category": "力量",
+    "intensity": "高",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "杠铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Place a barbell in a squat rack so that the bar is slightly lower than shoulder height, and grip the bar with the hands about shoulder-width apart. Dip under the bar to lift it up and rest it on the front of shoulders, then step back away from the rack. Place the feet hip-width apart, and bend at the knees while keeping the back straight. Quickly press the feet into the floor and snap the hips forward while pushing the weight directly overhead with the elbows facing away from the body. Slowly lower the barbell to the shoulders and repeat. The power for moving the weight should come from the hips and transfer through the shoulders and arms."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "40-medicine-ball-push-ups",
+    "title": "药球俯卧撑 (Medicine Ball Push-ups)",
+    "description": "Starting Position: Kneel on an exercise mat or floor and bring your feet together behind you. Slowly bend forward to place your palms on the sides of ...",
+    "category": "力量",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "药球",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Kneel on an exercise mat or floor and bring your feet together behind you. Slowly bend forward to place your palms on the sides of a medicine ball. Carefully shift your weight forward until your shoulders are positioned directly over your hands and the medicine ball. Reposition your feet as needed to allow full extension of your body without any sagging (downwards) or hiking (upwards) at the hips. Stiffen your torso by contracting your core and abdominal muscles (\"bracing\"). Your head should be aligned with your spine.",
+      "Downward Phase: Slowly lower your body towards the ball while maintaining a rigid torso and head aligned with your spine. Do not allow your low back to sag or your hips to hike upwards during the downward phase. Contract your glutes (butt) and quadriceps (thigh) muscles to help maintain stability. Continue to lower yourself until your chest nears or lightly touches the ball. Your elbows should either remain close to the sides of your body or flare outwards slightly.",
+      "Upward Phase: Press upwards through your arms while maintaining a rigid torso and head aligned with your spine. Do not allow your low back to sag or your hips to hike upwards. Continue pressing until the arms are fully extended at the elbows.",
+      "An alternate ball with handles can be substituted that reduces the pressure on your wrists. When using this type of ball, maintain a neutral wrist position throughout the exercise."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "42-push-up-with-single-leg-raise",
+    "title": "单腿抬起俯卧撑 (Push-up with Single-leg Raise)",
+    "description": "Starting Position: Kneel on an exercise mat or floor and bring your feet together behind you.",
+    "category": "力量",
+    "intensity": "低",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "无器械",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Kneel on an exercise mat or floor and bring your feet together behind you.",
+      "Slowly bend forward to place your palms flat on the mat, positioning your hands shoulder-width apart with your fingers facing forward. Slowly shift your weight forward until your shoulders are positioned directly over your hands. Reposition your hands as needed to allow full extension of your body without any bend at the hips or knees. Stiffen your torso by contracting your core and abdominal muscles (\"bracing\") and align your head with your spine. Place your feet together with your ankles dorsiflexed (toes pointed towards your shins).",
+      "Downward Phase: Slowly lower your body towards the floor while maintaining a rigid torso and head aligned with your spine. Do not allow your low back to sag or your hips to hike upwards during this downward phase, contract your glutes (butt) and quadriceps (thigh) muscles to create stability for your core. Continue to lower yourself until your chest or chin touch the mat or floor. Your elbows should remain close to the sides of your body or be allowed to flare outwards slightly.",
+      "Upward Phase: Press upwards through your arms while maintaining a rigid torso and head aligned with your spine. As your press upwards, extend your left hip to lift your left foot off the floor, keeping the knee extended. Attempt to avoid rotation in your hip as you raise the left leg off the floor. Do not allow your low back to sag or your hips to hike upwards. Continue pressing until the arms are fully extended at the elbows and your left leg is extended off the floor. Hold this position briefly before returning to your starting position. Repeat with your opposite leg"
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "60-stability-ball-knee-tucks",
+    "title": "瑞士球收膝 (Stability Ball Knee Tucks)",
+    "description": "Starting Position: Lie prone (on your stomach) over the top of a properly-inflated stability ball (one that compresses approximately 6\" under your bod...",
+    "category": "核心稳定",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "瑞士球",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Lie prone (on your stomach) over the top of a properly-inflated stability ball (one that compresses approximately 6\" under your body weight) with both feet and hands on the floor, hip- and shoulder-width apart.",
+      "Gently exhale, contract your abdominal/core muscles to stiffen your torso and slowly walk yourself forward, lifting your legs off the floor. Continue walking out until the fronts of your thighs or knees are resting on the top of the ball. Maintain a rigid torso aligned parallel with your legs. Retract and depress your scapulae (pull your shoulder back and down) as your reach your end position, with your arms fully extended and hands positioned directly under your shoulders. To help with stability, try to keep your legs straight and squeezed together. It helps to think about squeezing a quarter between your knees.",
+      "Curling Phase: Exhale and slowly pull your knees towards your chest, rolling the ball forward as your knees tuck under your torso and your hips move upwards. Continue moving until your knees are positioned under your hips and your tibia (shinbone) lies over the top of the ball. Hold this position briefly.",
+      "Lowering Phase: Inhale and push your knees away from your torso, returning your body to the starting position."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "61-stability-ball-pikes",
+    "title": "瑞士球屈体 (Stability Ball Pikes)",
+    "description": "Starting Position: Lie prone (on your stomach) over the top of a properly-inflated stability ball (one that compresses approximately 6\" under your bod...",
+    "category": "核心稳定",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "瑞士球",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Lie prone (on your stomach) over the top of a properly-inflated stability ball (one that compresses approximately 6\" under your body weight) with both feet and hands on the floor, hip- and shoulder-width apart.",
+      "Gently exhale, contract your abdominal/core muscles to stiffen your torso and slowly walk yourself forward, lifting your legs off the floor. Continue walking out until your toes, with ankles in dorsiflexion (toes pointed towards your shins), rest on the top of the ball. Maintain a rigid torso aligned parallel with your legs. Retract and depress your scapulae (pull your shoulder back and down) as your reach your end position, with your arms fully extended and hands positioned directly under your shoulders.",
+      "Curling Phase: Exhale and while keeping your legs fully extended, pull your feet towards towards your chest, rolling the ball forward as your hips move upwards (think about lifting your rear end towards the ceiling while hinging at the hips). Continue moving until you reach an inverted position where your hips are positioned directly above your shoulders, with your legs, torso and arms fully extended, and head positioned between your arms. Your toes should remain on the top of the ball, but your ankles can move into plantar flexion (toes pointed away from your shins).",
+      "Lowering Phase: Inhale and slowly lower yourself back towards the floor, returning your body to the starting position."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "64-stability-ball-reverse-extensions",
+    "title": "瑞士球反向伸展 (Stability Ball Reverse Extensions)",
+    "description": "Starting Position: Lie prone (on your stomach) over the top of a properly-inflated stability ball (one that compresses approximately 6\" under your bod...",
+    "category": "核心稳定",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "瑞士球",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Lie prone (on your stomach) over the top of a properly-inflated stability ball (one that compresses approximately 6\" under your body weight) with both feet and hands on the floor, hip- and shoulder-width apart.",
+      "Upward Phase: Gently exhale, contract your abdominal/core muscles to stiffen your torso and slowly walk yourself forward until your hips lie directly over the top of the ball, lifting both legs in unison off the floor until they are parallel with your torso. In this position, your body weight is distributed over the ball and supported by both hands placed on the floor. Press and hold your legs together so they move at the same time. Think about squeezing a quarter between your knees to help maintain the position.",
+      "Lowering Phase: Inhale and slowly lower both legs in unison back towards the floor while keeping them fully extended."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "65-russian-twist",
+    "title": "俄罗斯转体 (Russian Twist)",
+    "description": "Lean on top of an stability ball with the upper back on the ball and the hips out straight in front of the body, with knees bent at 90 degrees. Keep t...",
+    "category": "核心稳定",
+    "intensity": "中",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "瑞士球",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Lean on top of an stability ball with the upper back on the ball and the hips out straight in front of the body, with knees bent at 90 degrees. Keep the body straight from shoulders to knees. Hold the arms out straight in front of the chest with the palms touching each other. Twist through the stomach and shoulders rotating on to one shoulder with the hips up. Keep the feet on the ground and back straight and rotate to the opposite side."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "71-standing-shoulder-press",
+    "title": "站姿推举 (Standing Shoulder Press)",
+    "description": "Place a barbell in a rack at about shoulder-height. Grip the bar with the hands about shoulder-width apart and the palm facing the ceiling. Dip under ...",
+    "category": "力量",
+    "intensity": "高",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "杠铃",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Place a barbell in a rack at about shoulder-height. Grip the bar with the hands about shoulder-width apart and the palm facing the ceiling. Dip under the bar to bring it off the rack letting it rest across the top of the shoulders so that the palms are facing the ceiling and the elbows are pointed straight ahead. Step back, keeping the back straight and tall and press the barbell directly overhead. Slowly return the weight to the shoulders and repeat for the desired number of reps."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  },
+  {
+    "id": "77-trx-reg-atomic-push-up",
+    "title": "TRX原子俯卧撑 (TRX ® Atomic Push-up)",
+    "description": "Starting Position: Place your feet securely into the foot cradles positioned directly under the anchor point. Apply downward pressure with the tops of...",
+    "category": "力量",
+    "intensity": "高",
+    "ageGroup": [
+      "intermediate",
+      "high_school",
+      "advanced"
+    ],
+    "image": "/public/images/conditioning/default.png",
+    "setup": {
+      "equipment": "TRX悬挂带",
+      "players": "个人",
+      "court": "健身房或室内"
+    },
+    "steps": [
+      "Starting Position: Place your feet securely into the foot cradles positioned directly under the anchor point. Apply downward pressure with the tops of your feet by plantarflexing your ankles (toes point away from your shins). Gently lie flat on your stomach with your hands placed shoulder-width apart, under your shoulders and facing forward. Stiffen your torso by contracting your core/abdominal muscles (\"bracing\"), and your glutes (butt) and quadriceps (thigh) muscles.",
+      "Upward Phase: Exhale and slowly press yourself upward until your elbows are fully extended, aligning your head and spine. Avoid sagging or aching your low back, avoid the hips hiking upwards, and be sure to contract your glutes and quadriceps to maintain hip stability. Keep your feet together throughout the exercise and avoid any back and forth swinging of the TRX straps. Continue to pull your legs towards your chest. Knees must remain extended, knees and ankles in plantarflexion (toes pointed away from your shins). Keep your feet together throughout the exercise. During the movement, your hips will rise upwards and continue the movement until your hips are directly over your shoulders in an inverted shoulder press position. Maintain a rigid torso and flat spine, preventing any arching or bowing in the back.",
+      "Downward Phase: While maintaining a rigid torso, inhale and slowly lower your body towards the push-up, aligning your head and spine. Continue to slowly lower your body, touching your chin or upper chest to the floor. Again, avoid any arching or sagging in your low back. Contract your glutes and quadriceps to help maintain stability.",
+      "Exercise Variation: The intensity of this exercise can be increased by positioning your body further away from under the anchor point of the TRX and lengthening the straps."
+    ],
+    "coachingTips": [
+      "保持正确姿势，避免代偿。",
+      "控制动作节奏，不要过快。"
+    ],
+    "variations": []
+  }
+]
